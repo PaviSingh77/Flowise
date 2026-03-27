@@ -1,3 +1,17 @@
+## 🚀 Flowise Lite (Local AI Focus)
+
+This is a simplified and enhanced version of Flowise designed for local-first AI workflows using tools like Ollama.
+
+### Key Improvements
+- Easier setup for local LLMs
+- Beginner-friendly templates
+- Reduced dependency on cloud APIs
+
+### Quick Start (Local AI)
+1. Install Ollama
+2. Run a model (e.g. llama3)
+3. Connect Flowise to local endpoint
+
 <!-- markdownlint-disable MD030 -->
 
 <p align="center">
