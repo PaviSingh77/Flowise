@@ -1,0 +1,12 @@
+{
+  "name": "AI Research Assistant",
+  "description": "Summarises and analyses topics using a local LLM",
+  "nodes": [
+    {
+      "type": "prompt",
+      "data": {
+        "text": "Summarise the following topic clearly and give key insights: {{input}}"
+      }
+    }
+  ]
+}
